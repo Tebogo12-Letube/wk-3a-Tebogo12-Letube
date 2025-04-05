@@ -1,6 +1,8 @@
+# wk-3a-Tebogo12-Letube
+
 # 📝 Assignment: Data Manipulation and Transactions
 
-## 🎯 **Learning Objectives**
+## 🎯 Learning Objectives
 * ➕ Create tables and define the structure of a database.
 * ✍️ Insert records into a table.
 * 🔄 Modify data in a table through updates.
